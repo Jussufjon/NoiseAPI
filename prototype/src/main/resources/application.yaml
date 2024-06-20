@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: http://localhost/phpmyadmin
+    username: root
+    password:
+
+  jpa:
+    hibernate:
+      ddl-auto: create
